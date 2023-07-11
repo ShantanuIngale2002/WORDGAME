@@ -1,0 +1,15 @@
+{
+  "name": "wordguess---copy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "popular-english-words": "^1.0.2"
+  }
+}
